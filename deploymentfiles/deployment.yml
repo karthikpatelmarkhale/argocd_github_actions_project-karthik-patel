@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: webcont
-          image: karthikpatelmarkhale/webapp:7
+          image: karthikpatelmarkhale/webapp:8
 
           ports:
             - containerPort: 8080
