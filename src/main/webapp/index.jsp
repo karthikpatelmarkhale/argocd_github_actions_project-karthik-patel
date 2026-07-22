@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Karthik Patel - DevOps Engineer</title>
+</head>
 
-<body>
-    <body style="background-color:powderblue;"><h1>&#128640;Welcome To DevOps World &#128187;</h1>
+<body style="background-color: orange;">
 
-		<div>Congratulations DevOps Engineers on successfully deploying Application with GITHUB ACTIONS AUTOMATION&#127881;</div>
+    <h1>🚀 KARTHIK PATEL - A PASSIONATE DEVOPS ENGINEER 💻</h1>
 
-	
+    <div>
+        🎉 CONGRATULATIONS, KARTHIK PATEL ON SUCCESSFULLY DEPLOYING THE APPLICATION WITH GITHUB ACTIONS AUTOMATION! 🎉
+    </div>
+
 </body>
 </html>
